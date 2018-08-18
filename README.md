@@ -1,2 +1,7 @@
-# harry-keynote-uikit
-My personal keynote style and ui kit.
+# HYVI
+
+Harry Yu's personal Visual Identity.
+
+## Introduction
+
+* [Design and Style](./Design)
