@@ -10,3 +10,4 @@ Harry Yu's personal Visual Identity.
 * [Avatar](./Avatar)
 * [Colors](./Colors)
 * [Design and Style](./Design)
+* [Typography and Writing](./Typography)
