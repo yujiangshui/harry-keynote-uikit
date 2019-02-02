@@ -5,7 +5,7 @@
 
 Harry Yu's personal Visual Identity.
 
-## Body
+## Content
 
 * [Avatar](./Avatar)
 * [Colors](./Colors)
