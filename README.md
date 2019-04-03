@@ -8,6 +8,8 @@ Harry Yu's personal Visual Identity.
 ## Content
 
 * [Avatar](./Avatar)
+* [Contacts](./Contacts)
 * [Colors](./Colors)
-* [Design and Style](./Design)
-* [Typography and Writing](./Typography)
+* [Design and Styles](./Design)
+* [Typography and Writing Styles](./Typography)
+* [React Components](https://fusion.design/62210/component/basic/button)
