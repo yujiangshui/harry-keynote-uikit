@@ -53,7 +53,7 @@ My official social media:
 
 Based on [Base UI](https://getbaseui.com/), with some adjusts:
 
-![](./preview.jpg)
+[<img src="./Design/preview.jpg" height="260" />](./Design/preview.jpg)
 
 You can see more samples [here](./Design).
 
