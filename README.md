@@ -43,7 +43,7 @@ More colors here: <https://fusion.design/62210/design/style/color>. Inspried by 
 
 ```
 font-family: system-ui, -apple-system, BlinkMacSystemFont, 'PingFang SC', 'Microsoft YaHei', 'Helvetica Neue', sans-serif;
-font-size: 14px;
+font-size: 16px;
 line-height: 1.5;
 color: #333;
 ```
