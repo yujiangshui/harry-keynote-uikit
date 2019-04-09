@@ -64,8 +64,6 @@ My official contacts:
 
 * Email: hi[at]harryyu.me
 * Telegram: <https://t.me/harryyu>
-* Skype: +86[132]8241[657]4 (remove `[` and `]`)
-* WhatsApp: +86[132]8241[657]4 (remove `[` and `]`)
 * WeChat: Jiangshui-Yu (append Intention before add)
 
 My official social media:
